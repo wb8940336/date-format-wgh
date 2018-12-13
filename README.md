@@ -1,6 +1,7 @@
 # date-format
 时间格式化</br>
 引用：</br>
+npm install --save date-format-wgh</br>
 import DateFormat from 'date-format-wgh';</br>
 const date=DateFormat("",5);</br>
 参数非必传，2个参数都不传默认为当前系统时间,默认为第三种格式</br>
