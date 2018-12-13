@@ -1,6 +1,6 @@
 # date-format-wgh
 时间格式化</br>
-引用：</br>
+安装引用：</br>
 npm install --save date-format-wgh</br>
 import DateFormat from 'date-format-wgh';</br>
 const date=DateFormat("",5);</br>
