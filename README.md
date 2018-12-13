@@ -1,4 +1,4 @@
-# date-format
+# date-format-wgh
 时间格式化</br>
 引用：</br>
 npm install --save date-format-wgh</br>
